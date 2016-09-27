@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-infashion",
+  "version": "1.0.0",
+  "description": "This package provides Infashion's .eslintrc as an extensible shared config.",
+  "main": ".eslintrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trendiguru/eslint-config-infashion.git"
+  },
+  "keywords": [
+    "eslint",
+    "infashion"
+  ],
+  "author": "Trendi Guru Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trendiguru/eslint-config-infashion/issues"
+  },
+  "homepage": "https://github.com/trendiguru/eslint-config-infashion#readme"
+}
