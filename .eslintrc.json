@@ -2,8 +2,11 @@
     "plugins": [
         "react"
     ],
+    "parser": "babel-eslint",
     "parserOptions": {
-        "sourceType": "module"
+        "sourceType": "module",
+        "ecmaVersion": 7,
+        "allowImportExportEverywhere": false
     },
     "extends": [
         "eslint:recommended",

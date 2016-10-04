@@ -2,7 +2,7 @@
   "name": "eslint-config-infashion",
   "version": "1.0.0",
   "description": "This package provides Infashion's .eslintrc as an extensible shared config.",
-  "main": ".eslintrc",
+  "main": ".eslintrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trendiguru/eslint-config-infashion/issues"
   },
-  "homepage": "https://github.com/trendiguru/eslint-config-infashion#readme"
+  "homepage": "https://github.com/trendiguru/eslint-config-infashion#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.0.0"
+  }
 }
